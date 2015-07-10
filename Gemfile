@@ -22,7 +22,7 @@ group :development, :test do
 end
 
 gem 'faker'
-gem "angular-rails-templates"
+gem 'angular-rails-templates'
 gem 'sprockets', '2.12.3'
 gem 'responders', '~> 2.0'
 gem 'angular_rails_csrf'
